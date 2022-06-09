@@ -2,7 +2,6 @@
 
 Este programa sirve para calcular un sudoku de 9x9 por lo que se resuelve por medio de una webcam.
 Identifica el problema por la webcam por lo que hace una prediccion de los numeros o valoeres que se pueden determinar como una solución eficiente, por lo que se muestra la respuesta en los cuadros analizados en la webcam para resolver el problema.
-Demonstración: [Drive Video](Ubicar aqui la dirección para el video del proyecto)
 
 Imagenes de Entranamiento
 <img src="test_imgs/screen.png">
